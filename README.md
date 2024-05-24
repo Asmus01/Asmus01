@@ -27,9 +27,11 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-![](https://komarev.com/ghpvc/?username=Aslan)
+![](https://komarev.com/ghpvc/?username=Asmus01)
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Asmus01)](https://github.com/Asmus01/github-readme-activity-graph)
 
+https://github.com/Asmus01
 
 <!---
 Asmus01/Asmus01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

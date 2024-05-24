@@ -2,8 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="64"/></h1>
 <h3 align="center">QA engineer from Russia 🇷🇺</h3>
 
-# Hi there, I'm [Aslan](https://daniilshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-### QA-engineer from Russia  🇷🇺
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=QA-engineer+from+Russia)](https://git.io/typing-svg)
 
@@ -29,7 +27,9 @@
 
 ![](https://komarev.com/ghpvc/?username=Asmus01)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
 
 
 <!---

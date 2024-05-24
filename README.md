@@ -1,9 +1,9 @@
   <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Aslan</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="64"/></h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=QA-engineer+from+Russia)](https://git.io/typing-svg)
+
 <h3 align="center">QA engineer from Russia 🇷🇺</h3>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=QA-engineer+from+Russia)](https://git.io/typing-svg)
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)

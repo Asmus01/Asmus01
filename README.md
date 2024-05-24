@@ -29,8 +29,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Asmus01)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Asmus01)](https://github.com/Asmus01/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!---

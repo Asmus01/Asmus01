@@ -31,7 +31,7 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Asmus01)](https://github.com/Asmus01/github-readme-activity-graph)
 
-https://github.com/Asmus01
+
 
 <!---
 Asmus01/Asmus01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
   <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Aslan</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="44"/></h1>
 <h3 align="center">QA engineer from Russia 🇷🇺</h3>
 
 # Hi there, I'm [Aslan](https://daniilshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 

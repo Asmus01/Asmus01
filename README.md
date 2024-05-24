@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="64"/></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%4336BCF7&lines=QA-engineer+from+Russia)](https://git.io/typing-svg)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=33&duration=3000&pause=1000&color=2EA0D2&random=false&width=435&lines=QA+engineer+from+Russia;How+vexingly+quick+daft+zebras+jump" alt="Typing SVG" /></a>
 
 <h3 align="center">QA engineer from Russia 🇷🇺</h3>
 
